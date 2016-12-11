@@ -1,0 +1,42 @@
+body {
+    background: #193549;
+    color: white;
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+    text-align: center;
+    min-height: 100vh;
+}
+
+a {
+    color: var(--base);
+    text-decoration: none;
+}
+
+input {
+    width: 100px;
+}
+
+:root {
+    --base: #BADA55;
+    --spacing: 0px;
+    --blur: 0px;
+    --size: 400px;
+}
+
+img {
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+    transition: all .5s;
+    height: var(--size);
+    width: var(--size);
+}
+
+h2 {
+    font-size: 1em;
+}
+
+.controls {
+    margin-bottom: 50px;
+}
