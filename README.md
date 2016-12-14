@@ -8,3 +8,5 @@
 [Day 03](https://gnarfugh.github.io/JavaScript30/Day03)
 
 [Day 04](https://gnarfugh.github.io/JavaScript30/Day04)
+
+[Day 05](https://gnarfugh.github.io/JavaScript30/Day05)
