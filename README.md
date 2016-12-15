@@ -12,3 +12,5 @@
 [Day 05](https://gnarfugh.github.io/JavaScript30/Day05)
 
 [Day 06](https://gnarfugh.github.io/JavaScript30/Day06)
+
+[Day 07](https://gnarfugh.github.io/JavaScript30/Day07)
